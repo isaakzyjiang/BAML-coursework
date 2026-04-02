@@ -1,0 +1,41 @@
+CustomerID,Street,City,State,PostalCode,Country,AddressID
+3939,43321 Brittany Bypass,North Jefferyhaven,Rhode Island,03979,United States,1
+1841,Borgo Salandra 4,Borgo Ilaria veneto,La Spezia,23511,Italy,2
+8381,Oscar-Kaul-Weg 0,Pfaffenhofen an der Ilm,Brandenburg,18495,Germany,3
+8438,"11, rue de Leleu",Chevalier,NA,16475,France,4
+7594,Klappplatz 1,Perleberg,Mecklenburg-Vorpommern,76483,Germany,5
+8245,Hermann-Beckmann-Ring 4/1,Rehau,Rheinland-Pfalz,76724,Germany,6
+1018,Juliana-Rose-Weg 9,Rostock,Sachsen,32871,Germany,7
+8560,Gerhardt-Schuchhardt-Platz 9/1,Konstanz,Schleswig-Holstein,80184,Germany,8
+1042,"51, rue Cécile Bernard",Charrier,NA,81489,France,9
+4912,Acceso María Belén Cuéllar 680,Albacete,Baleares,43039,Spain,10
+8486,Cuesta Olalla Bayón 822,Córdoba,Melilla,38346,Spain,11
+2612,Pohlstraße 331,Artern,Mecklenburg-Vorpommern,01031,Germany,12
+3344,rue Denise Gomez,Laroche,NA,38299,France,13
+4886,Lilian-Mülichen-Straße 11,Jessen,Sachsen-Anhalt,70106,Germany,14
+6977,Urbanización Gregorio Falcón 772 Apt. 47,Asturias,León,08013,Spain,15
+7511,Neuschäferstraße 60,Koblenz,Baden-Württemberg,47468,Germany,16
+8606,"42, rue Bertrand Delorme",Bonnetboeuf,NA,09788,France,17
+7797,Pasadizo Cecilio Estevez 2,La Coruña,Baleares,99091,Spain,18
+2501,Heßplatz 3,Leipziger Land,Bremen,75107,Germany,19
+9850,Stretto Giampaolo 4,Sesto Tonia,Bari,54278,Italy,20
+1710,Gloria-Röhricht-Ring 241,Wittmund,Bremen,49353,Germany,21
+5831,Callejón de Vicenta Azcona 7 Piso 0,Guipúzcoa,Vizcaya,42786,Spain,22
+8770,Strada Valentina 2,Sesto Berenice umbro,Cagliari,20450,Italy,23
+6119,Canale Gionata 1 Piano 8,Costalonga del friuli,Campobasso,60256,Italy,24
+7566,"34, rue de Weber",Sainte Matthieu,NA,75433,France,25
+7947,C. Nando Lopez 5,Segovia,Málaga,85014,Spain,26
+3248,"240, avenue de Barre",Nguyen,NA,69340,France,27
+7626,Pasadizo Ángela Figueras 26 Puerta 5,Sevilla,Baleares,84656,Spain,28
+4630,"38, avenue Chartier",Labbé-les-Bains,NA,68044,France,29
+6295,Camino de Elvira Montserrat 87,Málaga,Lugo,14895,Spain,30
+3939,Cañada Jafet Flor 10,Lugo,Salamanca,76936,Spain,31
+1841,Henkplatz 163,Tübingen,Schleswig-Holstein,83172,Germany,32
+8381,"689, boulevard Sylvie Fouquet",Launaydan,NA,77434,France,33
+8438,Callejón Valerio Berenguer 53 Piso 5,Barcelona,Burgos,62316,Spain,34
+7594,Paseo de Adelaida Ricart 4 Piso 6,Valladolid,Ourense,70546,Spain,35
+8245,Cuesta Isidoro Llamas 17 Piso 5,Toledo,Cáceres,29806,Spain,36
+1018,"701, avenue Vidal",Sainte Alex,NA,37556,France,37
+8560,"24, rue Océane Gimenez",Sainte Maurice,NA,00330,France,38
+1042,27193 Lyons Trafficway,Garyville,Wyoming,21966,United States,39
+4912,Clara-Bauer-Ring 6/3,Saarbrücken,Mecklenburg-Vorpommern,49190,Germany,40
