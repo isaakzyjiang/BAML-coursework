@@ -1,0 +1,25 @@
+ID,Name,Stock,SellingPrice,SupplierPrice,SupplierID
+1,Iphone,20,1200,1000,1
+14,Laptop,18,800,600,2
+32,Headphones,3,600,400,3
+64,TV,5,1400,1200,4
+754,Smartwatch,18,301,62,2
+350,Tablet,7,359,121,4
+792,Bluetooth Speaker,28,295,94,9
+132,Wireless Mouse,15,202,97,1
+617,Gaming Keyboard,13,256,63,10
+833,Drone,29,370,264,9
+703,Power Bank,1,736,464,5
+877,Monitor,22,565,407,3
+384,USB Hub,49,455,160,3
+444,Webcam,7,244,97,2
+467,Router,3,476,359,6
+847,Projector,25,405,324,8
+180,Soundbar,41,462,200,9
+733,Smart Light,46,444,345,6
+171,Fitness Tracker,50,496,388,1
+396,VR Headset,7,596,487,2
+489,E-Reader,24,494,282,5
+266,External SSD,43,334,231,6
+373,Smart Thermostat,11,573,361,2
+646,Smart Doorbell,25,301,133,4
